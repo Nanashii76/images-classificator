@@ -65,3 +65,4 @@ python main.py
 - [ ] Comandos acionados por gestos
 - [ ] Desenho na tela com o dedo
 - [ ] Detecção de distâncias e movimentos entre os dedos
+- [ ] Reconhecimento e classificação de objetos
