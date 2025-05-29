@@ -4,7 +4,7 @@ Este projeto utiliza MediaPipe e OpenCV para detectar mãos em tempo real atrav�
 
 ## Demonstração
 
-<img src="./img/ezgif-4e44264dd77714.gif" alt="demo" width="600" />
+<img src="./img/ezgif-4e44264dd77714.gif" alt="demo" width="600" align="center" />
 
 ## Funcionalidades
 
