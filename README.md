@@ -67,7 +67,7 @@ python main.py
 ## Melhorias futuras
 
 - [ ] Reconhecimento de gestos personalizados (paz, joinha, etc.)
-- [ ] Comandos acionados por gestos
+- [x] Comandos acionados por gestos
 - [x] Desenho na tela com o dedo
 - [ ] Detecção de distâncias e movimentos entre os dedos
 - [ ] Reconhecimento e classificação de objetos
