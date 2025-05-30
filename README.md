@@ -2,9 +2,13 @@
 
 Este projeto utiliza MediaPipe e OpenCV para detectar mãos em tempo real através da webcam ou celular (via IP) e contar quantos dedos estão levantados em cada mão.
 
-## Demonstração
+## Demonstração Contador de Dedos
 
 <img src="./img/ezgif-4e44264dd77714.gif" alt="demo" width="600" />
+
+## Demonstração Modo Desenho
+
+<img src="./img/ezgif-77412e9a01d2d1.gif" alt="demo" width="600" />
 
 ## Funcionalidades
 
@@ -63,5 +67,5 @@ python main.py
 
 - [ ] Reconhecimento de gestos personalizados (paz, joinha, etc.)
 - [ ] Comandos acionados por gestos
-- [ ] Desenho na tela com o dedo
+- [ x ] Desenho na tela com o dedo
 - [ ] Detecção de distâncias e movimentos entre os dedos
