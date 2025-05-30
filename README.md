@@ -63,9 +63,10 @@ python main.py
 
 - O código usa threading para evitar travamentos causados pela leitura contínua da câmera IP.
 
-## Melhorias futuas
+## Melhorias futuras
 
 - [ ] Reconhecimento de gestos personalizados (paz, joinha, etc.)
 - [ ] Comandos acionados por gestos
 - [ x ] Desenho na tela com o dedo
 - [ ] Detecção de distâncias e movimentos entre os dedos
+- [ ] Reconhecimento e classificação de objetos
