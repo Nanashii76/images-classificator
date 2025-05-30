@@ -58,7 +58,7 @@ cap = cv2.VideoCapture(url)
 python main.py
 ```
 
-4. Ecerre apertando `Q`
+4. Encerre apertando `Q`
 
 - A contagem de dedos funciona para mãos esquerda e direita, adaptando a lógica do polegar com base na mão detectada.
 
