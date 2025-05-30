@@ -16,6 +16,7 @@ Este projeto utiliza MediaPipe e OpenCV para detectar mãos em tempo real atrav�
 - Reconhecimento individual dos dedos levantados
 - Compatível com webcam e com apps de câmera IP (ex: DroidCam, IP Webcam)
 - Interface em tempo real com contagem para cada mão (esquerda/direita)
+- Troca de modos com gesto (contagem, desenho)
 
 ## Tecnologias
 
@@ -67,6 +68,6 @@ python main.py
 
 - [ ] Reconhecimento de gestos personalizados (paz, joinha, etc.)
 - [ ] Comandos acionados por gestos
-- [ x ] Desenho na tela com o dedo
+- [x] Desenho na tela com o dedo
 - [ ] Detecção de distâncias e movimentos entre os dedos
 - [ ] Reconhecimento e classificação de objetos
